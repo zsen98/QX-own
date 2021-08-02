@@ -1,0 +1,16 @@
+#网易云
+host, ossgw.alicdn.com, direct
+host, iadmusicmat.music.126.net, direct
+
+#京东
+host, m.360buyimg.com, direct
+
+#什么值得买
+host, eimg.smzdm.com, direct
+
+#拼多多
+host, commimg.pddpic.com, direct
+
+host, pgdt.ugdtimg.com, direct
+host, canvas.gdt.qq.com, direct
+host, staticsns.cdn.bcebos.com, direct
